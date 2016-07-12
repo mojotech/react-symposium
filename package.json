@@ -1,6 +1,6 @@
 {
-  "name": "j-crew-mens",
-  "description": "The J. Crew Men's Stack",
+  "name": "react-symposium",
+  "description": "MojoTech Demo Repo for React Symposium 2016",
   "version": "1.0.0",
   "private": true,
   "dependencies": {
