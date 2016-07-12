@@ -1,5 +1,5 @@
-import './styles'
-import Greeter from './components/greeter'
+import './styles';
+import Greeter from './components/greeter';
 
 export class App extends React.Component {
   render () {
@@ -7,8 +7,8 @@ export class App extends React.Component {
       <div className='app'>
         <Greeter name='World'/>
       </div>
-    )
+    );
   }
 }
 
-export default App
+export default App;

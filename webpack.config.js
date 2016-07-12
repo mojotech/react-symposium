@@ -1,7 +1,7 @@
-require('dotenv').config()
-const path = require('path')
-const merge = require('webpack-merge')
-const webpack = require('webpack')
+require('dotenv').config();
+const path = require('path');
+const merge = require('webpack-merge');
+const webpack = require('webpack');
 
 const PATHS = {
   app: path.join(__dirname, 'src', 'index'),
@@ -54,4 +54,4 @@ const configs = {
   })
 }
 
-module.exports = configs[process.env.npm_lifecycle_event] || common
+module.exports = configs[process.env.npm_lifecycle_event] || common;

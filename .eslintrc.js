@@ -10,7 +10,6 @@ module.exports = {
 
   env: {
     browser: true,
-    chai: true,
     es6: true,
     mocha: true,
     node: true
@@ -32,7 +31,7 @@ module.exports = {
     'no-undef': 2,
     'no-unused-vars': 2,
     'quotes': [2, 'single', 'avoid-escape'],
-    'semi': [2, 'never']
+    'semi': [2, 'always']
   },
 
   plugins: ['react'],
