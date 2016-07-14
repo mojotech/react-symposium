@@ -34,9 +34,9 @@
     "webpack-merge": "^0.7.3"
   },
   "scripts": {
-    "prebuild": "npm run clean",
+    "prebuild": "npm run clean && cp -R ./src/static/ ./public/static/",
     "build": "jade src/index.jade --out public",
-    "clean": "rm -rf public",
+    "clean": "rm -rf ./public && mkdir -p ./public/static",
     "prestart": "npm run build",
     "start": "webpack",
     "test": "mocha",
