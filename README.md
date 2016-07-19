@@ -9,9 +9,10 @@
 
 ### Day 2
 
-* __React Native__ by Craig Jolicoeur
-* __Property-based Testing React__ by Daniel Wilson-Thomas
-* __React Eco-system and Tools__ by Zach Gibb
+* __React Native__ by Craig Jolicoeur - [slides][14]
+* __Property-based Testing React__ by Daniel Wilson-Thomas - [slides][11] and
+  [code][12]
+* __React Eco-system and Tools__ by Zach Gibb - [slides][13]
 
 ## Demo App
 
@@ -35,3 +36,7 @@ A basic [React][4] application configured with [Webpack][1], [Babel][2], [Mocha]
 [8]: https://github.com/djkirby/react-symposium-unit-testing
 [9]: http://www.slideshare.net/cpjolicoeur/react-redux-64060461
 [10]: http://www.slideshare.net/cpjolicoeur/unit-testing-react-redux
+[11]: http://www.slideshare.net/cpjolicoeur/property-based-testing-64166117
+[12]: https://github.com/RocketPuppy/reactsymposium-2016
+[13]: http://www.slideshare.net/cpjolicoeur/react-ecosystem
+[14]: http://www.slideshare.net/cpjolicoeur/react-native-64166287
