@@ -14,6 +14,10 @@
   [code][12]
 * __React Eco-system and Tools__ by Zach Gibb - [slides][13]
 
+### External Resources
+
+* __D3 and React__ http://nicolashery.com/integrating-d3js-visualizations-in-a-react-app/
+
 ## Demo App
 
 A basic [React][4] application configured with [Webpack][1], [Babel][2], [Mocha][3], [Jade][5] (Pug) and [Stylus][6].
